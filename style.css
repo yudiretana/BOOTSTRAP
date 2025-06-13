@@ -12,10 +12,12 @@ body {
   max-width: 150px;
   margin-bottom: 10px;
   border: 4px solid #d56bce;
+  align-items: center;
 }
 
 #inicio h2 {
   color: #a3377c;
+  align-items: center;
 }
 
 #sobre-mi .card {
